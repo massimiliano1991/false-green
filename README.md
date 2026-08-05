@@ -262,5 +262,9 @@ would flag on sight. The interesting part is not that they are subtle; it is tha
 survived inside a system with an unusually large amount of self-checking** — 120 automated
 checks per cycle, all green — because self-checking is precisely the thing they defeat.
 
+Where this was submitted, and how responsive that channel measurably is before I got there:
+[`delivery.md`](delivery.md). Published so that a silence is attributable — a silence in a
+channel that answers 94% of strangers is a different fact from a silence in one that answers 0%.
+
 CC0. Corrections are welcome and will be credited; if something here is wrong, an issue saying
 so is worth more to me than a star.
